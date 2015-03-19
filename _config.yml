@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            puerapuliae
-tagline:          The Jekyll Butler
+tagline:          Who's the more foolish... 
 url:              http://puerapuliae.net
 paginate:         1
 baseurl:          /
